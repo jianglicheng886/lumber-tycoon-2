@@ -178,8 +178,8 @@ end)
 
 
 Volcano.Name = "Volcano"
-Volcano.BackgroundColor3 = Color3.fromRGB(255, 50, 50)
 Volcano.Parent = WoodFrame
+Volcano.BackgroundColor3 = Color3.fromRGB(255, 50, 50)
 Volcano.Position = UDim2.new(0.0637480617, 0, 0.0645528138, 0)
 Volcano.Size = UDim2.new(0, 72, 0, 26)
 Volcano.Font = Enum.Font.FredokaOne
@@ -800,9 +800,9 @@ BoxedCarCar.Name = "BoxedCarCar"
 BoxedCarCar.Parent = TpFrame
 BoxedCarCar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 BoxedCarCar.Position = UDim2.new(0.26374808, 0, 0.440839529, 0)
-BoxedCarCar.Size = UDim2.new(0, 72, 0, 2
-5)
-BoxedCarCar.Font = Enum.Font.FredokaOneBoxedCarCar.Text = "盒子车行"
+BoxedCarCar.Size = UDim2.new(0, 72, 0, 25)
+BoxedCarCar.Font = Enum.Font.FredokaOne
+BoxedCarCar.Text = "盒子车行"
 BoxedCarCar.TextColor3 = Color3.fromRGB(0, 0, 0)
 BoxedCarCar.TextSize = 16.000
 
